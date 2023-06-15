@@ -1,0 +1,20 @@
+nav{
+    background: blue;
+    color: white;
+    height:56px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+  }
+  span,label{
+    margin-left: 10px;
+  }
+  button{
+    width: 80px !important;
+    background-color: red;
+    border-radius: 30px;
+  }
+  

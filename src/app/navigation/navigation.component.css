@@ -1,0 +1,17 @@
+aside {
+    height: 100vh;
+    background: gray;
+    width: 20%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 60px;
+    color: white;
+    z-index: -1;
+    overflow: scroll;
+    
+  }
+  p{
+    margin-left: 10px  ;
+    font-weight: bold;
+  }
